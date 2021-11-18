@@ -2,7 +2,6 @@
 
 #Visual do project-template
 
-![Captura de Tela (918)](https://user-images.githubusercontent.com/62512557/142301236-6760fbbe-8542-45e5-9266-bd9c4752139c.png)
-![Captura de Tela (919)](https://user-images.githubusercontent.com/62512557/142301241-47224364-7e4c-48d2-a99c-b384b20be67f.png)
-![Captura de Tela (920)](https://user-images.githubusercontent.com/62512557/142301242-2943588f-a687-4d24-aae0-dbc0f96228e5.png)
-![Captura de Tela (921)](https://user-images.githubusercontent.com/62512557/142301245-444c86eb-55d8-4d01-a57c-8ef1852a72a4.png)
+![Captura de Tela (1000)](https://user-images.githubusercontent.com/62512557/142301457-4d2b42d6-a322-4eba-b349-8c91e833a93f.png)
+![Captura de Tela (1001)](https://user-images.githubusercontent.com/62512557/142301459-f8bb6408-ef4d-4e17-8cda-165eb7a4301d.png)
+
